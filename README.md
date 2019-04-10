@@ -2,8 +2,13 @@
 Decentralized exchange, Ethereum, Solidity, Truffle
 
 Rinkeby net:
+
 ThorNetwork contract: 0x77e27eb38fd430a382dc63fdf0b37d3da96ff6b7
+
 ThorNetworkProxy contract: 0x04071ac5e2b3d9ace141715b641cdf2d3166d0d3
+
 ThorPrice contract: 0x5faebed36b1216fd781e081d6741b39f8d8fa587
+
 ThorReserve1 contract: 0x563c0e0e2c06e2a682e67b2cb43dd95b13ef9ed2
+
 ThorReserve2 contract: 0xd0dbed9f426e834803cf008e63876aeeeaa4dbdd
